@@ -332,10 +332,14 @@ main {
 }
 
 .avatar-box {
+  transition: transform 0.3s ease;
   background: var(--bg-gradient-onyx);
-  border-radius: 20px;
+  border-radius: 50%;
+  overflow: hidden;
 }
-
+.avatar-box:hover {
+  transform: scale(1.05);
+}
 .info-content .name {
   color: var(--white-2);
   font-size: var(--fs-3);
@@ -349,9 +353,14 @@ main {
   background: var(--onyx);
   font-size: var(--fs-8);
   font-weight: var(--fw-300);
-  width: max-content;
+
+  width: 100%;
+  text-align: center;
   padding: 3px 12px;
   border-radius: 8px;
+
+  white-space: normal;
+  word-wrap: break-word;
 }
 
 .info_more-btn {
@@ -444,11 +453,20 @@ main {
 }
 
 
-.social-item .social-link:hover { color: var(--light-gray); }
+.social-item .social-link:hover {
+  background: #6c6e4b;
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(169, 181, 0, 0.4);
+  color: var(--light-gray); }
 
 
+.social-link ion-icon {
+  pointer-events: none;
+}
 
-
+.social-link {
+  transition: all 0.3s ease;
+}
 
 /*-----------------------------------*\
   #NAVBAR

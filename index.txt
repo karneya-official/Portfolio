@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Karan Singh
+Karan Singh
+Aspiring Data Analyst | Data Visualization Enthusiast
 
 Show Contacts
 
 Email
-richard@example.com
+karneya.official@gmail.com
 
 Phone
-+1 (213) 352-2795
++919667869220
 
 Birthday
-June 23, 1982
+July 20, 2000
 
 Location
-Sacramento, California, USA
+Faridabad, Haryana
 
 # navbar
 
@@ -32,7 +32,7 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+Highly Innovative Detail-oriented professional with strong skills in data analytics and visualization. Experienced in developing innovative solutions and coordinating projects to achieve high-quality outcomes.
 
 My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
 
